@@ -1,0 +1,10 @@
+.header{
+  font-size:xx-large;
+  font-family: verdana;
+  font-weight: bolder;
+}
+.footer{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
